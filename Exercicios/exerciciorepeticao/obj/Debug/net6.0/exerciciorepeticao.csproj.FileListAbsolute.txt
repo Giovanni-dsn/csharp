@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\bin\Debug\net6.0\exerciciorepeticao.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\bin\Debug\net6.0\exerciciorepeticao.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\bin\Debug\net6.0\exerciciorepeticao.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\bin\Debug\net6.0\exerciciorepeticao.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\bin\Debug\net6.0\exerciciorepeticao.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\refint\exerciciorepeticao.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\exerciciorepeticao.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exerciciorepeticao\obj\Debug\net6.0\ref\exerciciorepeticao.dll

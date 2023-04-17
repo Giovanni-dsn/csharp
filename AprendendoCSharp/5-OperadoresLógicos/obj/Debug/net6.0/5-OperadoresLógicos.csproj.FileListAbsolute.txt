@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\bin\Debug\net6.0\5-OperadoresLógicos.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\bin\Debug\net6.0\5-OperadoresLógicos.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\bin\Debug\net6.0\5-OperadoresLógicos.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\bin\Debug\net6.0\5-OperadoresLógicos.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\bin\Debug\net6.0\5-OperadoresLógicos.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\refint\5-OperadoresLógicos.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\5-OperadoresLógicos.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\5-OperadoresLógicos\obj\Debug\net6.0\ref\5-OperadoresLógicos.dll

@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\bin\Debug\net6.0\2-Variáveis.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\bin\Debug\net6.0\2-Variáveis.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\bin\Debug\net6.0\2-Variáveis.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\bin\Debug\net6.0\2-Variáveis.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\bin\Debug\net6.0\2-Variáveis.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\refint\2-Variáveis.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\2-Variáveis.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\2-Variáveis\obj\Debug\net6.0\ref\2-Variáveis.dll

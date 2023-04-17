@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\bin\Debug\net6.0\RepeticoesEncadeadas2.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\bin\Debug\net6.0\RepeticoesEncadeadas2.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\bin\Debug\net6.0\RepeticoesEncadeadas2.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\bin\Debug\net6.0\RepeticoesEncadeadas2.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\bin\Debug\net6.0\RepeticoesEncadeadas2.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\refint\RepeticoesEncadeadas2.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\RepeticoesEncadeadas2.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\RepeticoesEncadeadas2\obj\Debug\net6.0\ref\RepeticoesEncadeadas2.dll

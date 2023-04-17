@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\bin\Debug\net6.0\exPOO-01.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\bin\Debug\net6.0\exPOO-01.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\bin\Debug\net6.0\exPOO-01.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\bin\Debug\net6.0\exPOO-01.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\bin\Debug\net6.0\exPOO-01.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\refint\exPOO-01.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\exPOO-01.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\exPOO-01\obj\Debug\net6.0\ref\exPOO-01.dll

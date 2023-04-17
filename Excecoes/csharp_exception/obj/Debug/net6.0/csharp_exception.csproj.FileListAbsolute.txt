@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\bin\Debug\net6.0\csharp_exception.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\bin\Debug\net6.0\csharp_exception.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\bin\Debug\net6.0\csharp_exception.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\bin\Debug\net6.0\csharp_exception.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\bin\Debug\net6.0\csharp_exception.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\refint\csharp_exception.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\csharp_exception.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Excecoes\csharp_exception\obj\Debug\net6.0\ref\csharp_exception.dll

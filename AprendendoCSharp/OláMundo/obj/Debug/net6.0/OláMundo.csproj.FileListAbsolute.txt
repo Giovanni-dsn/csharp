@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\bin\Debug\net6.0\OláMundo.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\bin\Debug\net6.0\OláMundo.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\bin\Debug\net6.0\OláMundo.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\bin\Debug\net6.0\OláMundo.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\bin\Debug\net6.0\OláMundo.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\refint\OláMundo.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\OláMundo.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\AprendendoCSharp\OláMundo\obj\Debug\net6.0\ref\OláMundo.dll

@@ -1,0 +1,15 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\bin\Debug\net6.0\ExerciciosDeClasse.exe
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\bin\Debug\net6.0\ExerciciosDeClasse.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\bin\Debug\net6.0\ExerciciosDeClasse.runtimeconfig.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\bin\Debug\net6.0\ExerciciosDeClasse.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\bin\Debug\net6.0\ExerciciosDeClasse.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\refint\ExerciciosDeClasse.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ExerciciosDeClasse.genruntimeconfig.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\Exercicios\ExerciciosDeClasse\obj\Debug\net6.0\ref\ExerciciosDeClasse.dll
