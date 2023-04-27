@@ -1,13 +1,19 @@
 ﻿using ByteBankIO;
+using System.ComponentModel.Design;
+using System.Text;
 
-class Program
+partial class Program
 {
     static void Main(string[] args)
     {
-        var arquivo = "contas.txt";
-        var fluxoDoArquivo = new FileStream(arquivo, FileMode.Open);
-        var buffer = new byte[1024]; //1KB
-        fluxoDoArquivo.Read(buffer, 0, buffer.Length);
+        //CriarArquivo("contasExportadas.csv");
+        //CriarArquivoComWriter("contasExportadas2.csv");
+        //LerComStreamReaderEadicionarContaCorrente("contasExportadas.csv");
+        //TestaEscrita();
+        //EscritaBinaria();
+        //LeituraBinaria();
+        UsarStreamDeEntrada();
+        Console.WriteLine("Aplicação finalizada");
         Console.ReadLine();
     }
 }
