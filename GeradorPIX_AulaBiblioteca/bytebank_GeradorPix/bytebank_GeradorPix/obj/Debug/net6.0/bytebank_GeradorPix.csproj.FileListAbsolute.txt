@@ -1,0 +1,12 @@
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\bin\Debug\net6.0\bytebank_GeradorPix.deps.json
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\bin\Debug\net6.0\bytebank_GeradorPix.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\bin\Debug\net6.0\bytebank_GeradorPix.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.csproj.AssemblyReference.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.AssemblyInfoInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.AssemblyInfo.cs
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.csproj.CoreCompileInputs.cache
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\refint\bytebank_GeradorPix.dll
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\bytebank_GeradorPix.pdb
+C:\Users\Jordaense\Documents\Pratica estudos programação\csharp\GeradorPIX_AulaBiblioteca\bytebank_GeradorPix\bytebank_GeradorPix\obj\Debug\net6.0\ref\bytebank_GeradorPix.dll
